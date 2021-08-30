@@ -1,4 +1,4 @@
-ipackage fiap.scj.restapi.apidemo.controllers;
+package fiap.scj.restapi.apidemo.controllers;
 
 import fiap.scj.restapi.apidemo.models.Event;
 import org.springframework.http.HttpStatus;
