@@ -1,4 +1,4 @@
-package fiap.scj.restapi.apidemo.controllers;
+ipackage fiap.scj.restapi.apidemo.controllers;
 
 import fiap.scj.restapi.apidemo.models.Event;
 import org.springframework.http.HttpStatus;
@@ -29,7 +29,7 @@ public class EventController {
     @GetMapping("/test")
     public String test() {
         // GET http://localhost:8080/event/test
-        return "Teste efetuado com sucesso! Powered By Heroku";
+        return "Teste efetuado com sucesso! Powered By Jeffinho";
     }
 
     // Retrieve All
